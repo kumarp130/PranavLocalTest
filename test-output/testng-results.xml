@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="89" started-at="2018-10-09T09:56:13Z" finished-at="2018-10-09T09:56:13Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="89" started-at="2018-10-09T09:56:13Z" finished-at="2018-10-09T09:56:13Z">
+      <class name="com.parameter.LaunchBrowser">
+        <test-method status="PASS" signature="launchBrowserTest(java.lang.String)[pri:0, instance:com.parameter.LaunchBrowser@cb5822]" name="launchBrowserTest" duration-ms="18" started-at="2018-10-09T09:56:13Z" finished-at="2018-10-09T09:56:13Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowserTest -->
+      </class> <!-- com.parameter.LaunchBrowser -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

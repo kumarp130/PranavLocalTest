@@ -1,0 +1,4 @@
+com\parameter\ParameterTest.class
+com\test\TestNgBasic.class
+com\qa\launch\LaunchFirefox.class
+com\parameter\LaunchBrowser.class
