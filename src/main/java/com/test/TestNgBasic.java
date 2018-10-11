@@ -24,4 +24,9 @@ public class TestNgBasic {
 	{
 		System.out.println("Addition");
 	}
+	@Test
+	public void add2()
+	{
+		System.out.println("Addition");
+	}
 }
